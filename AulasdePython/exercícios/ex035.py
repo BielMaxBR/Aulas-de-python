@@ -7,33 +7,16 @@ if v3 > v2 and v3 > v1:
         print('dá pra fazer um triângulo :)')
     else:
         print('não dá pra fazer um triângulo :(')
-    """botão de parar"""
-    parar = input('escreva algo pra parar')
-    if parar == str:
-        import sys
 
-        sys.exit()
 
 if v2 > v1 and v2 > v3:
     if v3 + v1 > v2:
         print('dá pra fazer um triângulo :)')
     else:
         print('não dá pra fazer um triângulo :(')
-    """botão de parar"""
-    parar = input('escreva algo pra parar')
-    if parar == str:
-        import sys
-
-        sys.exit()
 
 if v1 > v3 and v1 > v2:
     if v3 + v2 > v1:
         print('dá pra fazer um triângulo :)')
     else:
         print('não dá pra fazer um triângulo :(')
-    """botão de parar"""
-    parar = input('escreva algo pra parar')
-    if parar == str:
-        import sys
-
-        sys.exit()

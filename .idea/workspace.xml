@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54f27478-bc6c-4966-9dc0-58c69c521fe8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/MAXIMUS.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AulasdePython/exercícios/ex043.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/MAXIMUS.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/MAXIMUS.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AulasdePython/exercícios/ex042.py" beforeDir="false" afterPath="$PROJECT_DIR$/AulasdePython/exercícios/ex042.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,29 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AulasdePython/treinozin.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AulasdePython/exercícios/ex035.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/AulasdePython/exercícios/ex042.py">
+        <entry file="file://$PROJECT_DIR$/AulasdePython/exercícios/ex043.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+            <state relative-caret-position="302">
+              <caret line="20" column="50" lean-forward="true" selection-start-line="20" selection-start-column="50" selection-end-line="20" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -60,6 +42,7 @@
         <option value="$PROJECT_DIR$/AulasdePython/treinozin.py" />
         <option value="$PROJECT_DIR$/AulasdePython/exercícios/ex035.py" />
         <option value="$PROJECT_DIR$/AulasdePython/exercícios/ex042.py" />
+        <option value="$PROJECT_DIR$/AulasdePython/exercícios/ex043.py" />
       </list>
     </option>
   </component>
@@ -114,7 +97,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ex042">
+  <component name="RunManager" selected="Python.ex043">
     <configuration name="ex040" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Aulas-de-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -157,6 +140,48 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="ex043" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Aulas-de-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AulasdePython/exercícios" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AulasdePython/exercícios/ex043.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="math" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Aulas-de-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../.PyCharmCE2018.3/system/python_stubs/-1576231578" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../.PyCharmCE2018.3/system/python_stubs/-1576231578/math.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="treinozin" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Aulas-de-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -180,6 +205,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ex043" />
+        <item itemvalue="Python.math" />
         <item itemvalue="Python.ex042" />
         <item itemvalue="Python.treinozin" />
         <item itemvalue="Python.ex040" />
@@ -218,11 +245,19 @@
       <option name="project" value="LOCAL" />
       <updated>1546110655479</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="ex042 feito">
+      <created>1546112036330</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1546112036330</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -247,7 +282,8 @@
     <MESSAGE value="descrição em &quot;treinozin.py&quot; e novo arquivo no &quot;.idea&quot;" />
     <MESSAGE value="resumo de ex035" />
     <MESSAGE value="ex042 criado" />
-    <option name="LAST_COMMIT_MESSAGE" value="ex042 criado" />
+    <MESSAGE value="ex042 feito" />
+    <option name="LAST_COMMIT_MESSAGE" value="ex042 feito" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/AulasdePython/exercícios/ex040.py">
@@ -281,8 +317,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/AulasdePython/exercícios/ex042.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        <state relative-caret-position="280">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../.PyCharmCE2018.3/system/python_stubs/-1576231578/math.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3/math.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AulasdePython/exercícios/ex043.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="20" column="50" lean-forward="true" selection-start-line="20" selection-start-column="50" selection-end-line="20" selection-end-column="50" />
         </state>
       </provider>
     </entry>

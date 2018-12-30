@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54f27478-bc6c-4966-9dc0-58c69c521fe8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/AulasdePython/exercícios/ex045.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AulasdePython/exercícios/ex046.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AulasdePython/treinozin.py" beforeDir="false" afterPath="$PROJECT_DIR$/AulasdePython/treinozin.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,40 +22,44 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="2" />
+          <entry key="py" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="2" />
+          <entry key="Python" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="1520" />
-          <entry key="txt" value="1" />
+          <entry key="py" value="1811" />
+          <entry key="txt" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="1520" />
+          <entry key="PLAIN_TEXT" value="5" />
+          <entry key="Python" value="1811" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/AulasdePython/exercícios/ex045.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AulasdePython/treinozin.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-              <folding>
-                <element signature="e#403#602#0" />
-                <element signature="e#635#834#0" />
-                <element signature="e#868#1067#0" />
-              </folding>
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AulasdePython/exercícios/ex046.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="26" lean-forward="true" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -75,16 +80,17 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/AulasdePython/exercícios/ex040.py" />
-        <option value="$PROJECT_DIR$/AulasdePython/treinozin.py" />
         <option value="$PROJECT_DIR$/AulasdePython/exercícios/ex035.py" />
         <option value="$PROJECT_DIR$/AulasdePython/exercícios/ex042.py" />
         <option value="$PROJECT_DIR$/AulasdePython/exercícios/ex043.py" />
         <option value="$PROJECT_DIR$/AulasdePython/exercícios/ex044.py" />
         <option value="$PROJECT_DIR$/AulasdePython/exercícios/ex045.py" />
+        <option value="$PROJECT_DIR$/AulasdePython/treinozin.py" />
+        <option value="$PROJECT_DIR$/AulasdePython/exercícios/ex046.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="773" />
@@ -123,12 +129,6 @@
               <item name="Aulas-de-python" type="462c0819:PsiDirectoryNode" />
               <item name="AulasdePython" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Aulas-de-python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Aulas-de-python" type="462c0819:PsiDirectoryNode" />
-              <item name="AulasdePython" type="462c0819:PsiDirectoryNode" />
-              <item name="exercícios" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -152,28 +152,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ex045">
-    <configuration name="ex042" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Aulas-de-python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AulasdePython/exercícios" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AulasdePython/exercícios/ex042.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.ex046">
     <configuration name="ex043" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Aulas-de-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -237,7 +216,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="math" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ex046" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Aulas-de-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -245,11 +224,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../.PyCharmCE2018.3/system/python_stubs/-1576231578" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AulasdePython/exercícios" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../.PyCharmCE2018.3/system/python_stubs/-1576231578/math.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AulasdePython/exercícios/ex046.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="treinozin" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Aulas-de-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AulasdePython" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AulasdePython/treinozin.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -259,19 +259,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.ex042" />
       <item itemvalue="Python.ex043" />
-      <item itemvalue="Python.math" />
       <item itemvalue="Python.ex044" />
       <item itemvalue="Python.ex045" />
+      <item itemvalue="Python.treinozin" />
+      <item itemvalue="Python.ex046" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ex046" />
+        <item itemvalue="Python.treinozin" />
         <item itemvalue="Python.ex045" />
         <item itemvalue="Python.ex044" />
         <item itemvalue="Python.ex043" />
-        <item itemvalue="Python.math" />
-        <item itemvalue="Python.ex042" />
       </list>
     </recent_temporary>
   </component>
@@ -321,11 +321,18 @@
       <option name="project" value="LOCAL" />
       <updated>1546192038333</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="ex045 feito...">
+      <created>1546194628293</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1546194628293</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="773" extended-state="6" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
@@ -333,7 +340,7 @@
       <window_info anchor="bottom" id="Inspection Results" weight="0.32892805" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32892805" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3068493" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -357,7 +364,8 @@
     <MESSAGE value="ex042 criado" />
     <MESSAGE value="ex042 feito" />
     <MESSAGE value="ex044 feito" />
-    <option name="LAST_COMMIT_MESSAGE" value="ex044 feito" />
+    <MESSAGE value="ex045 feito..." />
+    <option name="LAST_COMMIT_MESSAGE" value="ex045 feito..." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/AulasdePython/exercícios/ex040.py">
@@ -372,13 +380,6 @@
         <state split_layout="SPLIT">
           <first_editor />
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AulasdePython/treinozin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
@@ -420,13 +421,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/AulasdePython/exercícios/ex045.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="170">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
           <folding>
+            <element signature="e#0#26#0" expanded="true" />
             <element signature="e#403#602#0" />
             <element signature="e#635#834#0" />
             <element signature="e#868#1067#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AulasdePython/treinozin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AulasdePython/exercícios/ex046.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="26" lean-forward="true" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
         </state>
       </provider>
     </entry>

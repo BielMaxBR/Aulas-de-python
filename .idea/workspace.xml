@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="54f27478-bc6c-4966-9dc0-58c69c521fe8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AulasdePython/relogio.py" beforeDir="false" afterPath="$PROJECT_DIR$/AulasdePython/relogio.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AulasdePython/treinozin.py" beforeDir="false" afterPath="$PROJECT_DIR$/AulasdePython/treinozin.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,15 +13,35 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FavoritesManager">
-    <favorites_list name="Aulas-de-python" />
+    <favorites_list name="Aulas-de-python">
+      <favorite_root url="file://$PROJECT_DIR$/AulasdePython/relogio.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+    </favorites_list>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/AulasdePython/treinozin.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="200">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AulasdePython/relogio.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="16" selection-start-column="16" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AulasdePython/music_player.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="258">
+              <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
             </state>
           </provider>
         </entry>
@@ -54,6 +75,10 @@
         <option value="$PROJECT_DIR$/AulasdePython/Contador(teste).py" />
         <option value="$PROJECT_DIR$/AulasdePython/joguinho.py" />
         <option value="$PROJECT_DIR$/AulasdePython/Contador.py" />
+        <option value="$PROJECT_DIR$/AulasdePython/Relógio.py" />
+        <option value="$PROJECT_DIR$/AulasdePython/music_player.py" />
+        <option value="$PROJECT_DIR$/AulasdePython/exercícios/ex001.py" />
+        <option value="$PROJECT_DIR$/AulasdePython/relogio.py" />
         <option value="$PROJECT_DIR$/AulasdePython/treinozin.py" />
       </list>
     </option>
@@ -125,7 +150,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.treinozin">
+  <component name="RunManager" selected="Python.relogio">
     <configuration name="Contador" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Aulas-de-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -168,7 +193,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex046" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Relógio" type="PythonConfigurationType" factoryName="Python">
       <module name="Aulas-de-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -176,11 +201,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AulasdePython/exercícios" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AulasdePython" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AulasdePython/exercícios/ex046.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\MAXIMUS\Aulas-de-python\AulasdePython\relogio.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -210,6 +235,29 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="relogio" type="PythonConfigurationType" factoryName="Python">
+      <module name="Aulas-de-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AulasdePython" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AulasdePython/relogio.py" />
+      <option name="PARAMETERS" value="Função relógio" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2">
+        <option name="RunConfigurationTask" enabled="true" run_configuration_name="Relógio" run_configuration_type="PythonConfigurationType" />
+      </method>
+    </configuration>
     <configuration name="treinozin" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Aulas-de-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -232,11 +280,12 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.ex046" />
-      <item itemvalue="Python.Contador" />
-      <item itemvalue="Python.Contador(teste)" />
+      <item itemvalue="Python.Relógio" />
+      <item itemvalue="Python.relogio" />
       <item itemvalue="Python.joguinho" />
       <item itemvalue="Python.treinozin" />
+      <item itemvalue="Python.Contador" />
+      <item itemvalue="Python.Contador(teste)" />
     </list>
     <recent_temporary>
       <list>
@@ -244,7 +293,6 @@
         <item itemvalue="Python.Contador" />
         <item itemvalue="Python.joguinho" />
         <item itemvalue="Python.Contador(teste)" />
-        <item itemvalue="Python.ex046" />
       </list>
     </recent_temporary>
   </component>
@@ -378,7 +426,28 @@
       <option name="project" value="LOCAL" />
       <updated>1546376619448</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Treino de funções">
+      <created>1546381875815</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1546381875815</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Função Relógio">
+      <created>1546382377162</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1546382377162</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Função Relógio">
+      <created>1546382632561</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1546382632561</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -389,7 +458,7 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30278233" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30278233" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -402,7 +471,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Project" order="3" visible="true" weight="0.26399395" />
+      <window_info active="true" anchor="right" content_ui="combo" id="Project" order="3" visible="true" weight="0.26399395" />
     </layout>
   </component>
   <component name="VcsManagerConfiguration">
@@ -423,7 +492,9 @@
     <MESSAGE value="Tela do joguinho" />
     <MESSAGE value="ex050 feito" />
     <MESSAGE value="Janela(800, 600)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Janela(800, 600)" />
+    <MESSAGE value="Treino de funções" />
+    <MESSAGE value="Função Relógio" />
+    <option name="LAST_COMMIT_MESSAGE" value="Função Relógio" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/AulasdePython/exercícios/ex040.py">
@@ -477,9 +548,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AulasdePython/music_player.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/AulasdePython/exercícios/ex049.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -529,13 +597,6 @@
     <entry file="file://$PROJECT_DIR$/AulasdePython/exercícios/ex041.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/AulasdePython/Contador.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AulasdePython/joguinho.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -546,10 +607,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/AulasdePython/Contador.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AulasdePython/music_player.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AulasdePython/exercícios/ex001.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AulasdePython/relogio.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" selection-start-column="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/AulasdePython/treinozin.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="200">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>

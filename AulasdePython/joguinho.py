@@ -1,6 +1,6 @@
 import pygame
 from pygame.locals import *
-tela = pygame.display.set_mode((200, 100))
+tela = pygame.display.set_mode((800, 600))
 continua = True
 clock = pygame.time.Clock()
 pygame.init()

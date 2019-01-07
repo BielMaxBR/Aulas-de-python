@@ -16,6 +16,3 @@ def clock():
         except KeyboardInterrupt as B:
             break
 
-
-class Relogio:
-    pass

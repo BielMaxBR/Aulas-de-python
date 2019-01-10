@@ -8,7 +8,7 @@ kivy.require('1.10.1')
 
 
 class HAHAHAHAHA(GridLayout):
-    def __init__(self):
+    def __init__(self, **kwargs):
         super(HAHAHAHAHA, self).__init__(**kwargs)
         self.cols = 2
         self.add_widget(Label(text='HAHAHAHA'))

@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54f27478-bc6c-4966-9dc0-58c69c521fe8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/AulasdePython/kivy_treinos.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,10 +27,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/AulasdePython/kivy_treinos.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="306">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
               <folding>
-                <element signature="e#0#6#0" expanded="true" />
+                <element signature="e#0#11#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -452,7 +451,21 @@
       <option name="project" value="LOCAL" />
       <updated>1547136958162</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Kivy treino 1 (errado)">
+      <created>1547142107990</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1547142107990</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Kivy treino 1 (agora certo)">
+      <created>1547142355871</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1547142355871</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TodoView" selected-index="1">
@@ -472,7 +485,7 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49919224" visible="true" weight="0.3219178" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49919224" weight="0.3219178" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39863014" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -532,7 +545,9 @@
     <MESSAGE value="treino de alarme" />
     <MESSAGE value="treino de portscan (até a porta 199)" />
     <MESSAGE value="transportando Tudo pro pc" />
-    <option name="LAST_COMMIT_MESSAGE" value="transportando Tudo pro pc" />
+    <MESSAGE value="Kivy treino 1 (errado)" />
+    <MESSAGE value="Kivy treino 1 (agora certo)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Kivy treino 1 (agora certo)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -754,10 +769,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/AulasdePython/kivy_treinos.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="306">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
           <folding>
-            <element signature="e#0#6#0" expanded="true" />
+            <element signature="e#0#11#0" expanded="true" />
           </folding>
         </state>
       </provider>

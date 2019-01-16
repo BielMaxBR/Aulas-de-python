@@ -10,7 +10,7 @@ for porta in portas:
         print(porta, "OPEN")
 
 
-'''import socket
+''' import socket
 from time import sleep
 
 cliente = socket.socket(socket.AF_INET, socket.SOCK_STREAM)

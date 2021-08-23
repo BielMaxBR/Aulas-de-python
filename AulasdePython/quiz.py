@@ -25,7 +25,7 @@ def perguntar(pergunta, numero):
     try:
         resp = int(input(Fore.GREEN + "responda: "))
     except ValueError:
-       return 'insira apenas números inteiros'
+        return 'insira apenas números inteiros'
 
     print(Fore.WHITE + f"{resp} {pergunta['certa']}")
 
@@ -38,7 +38,6 @@ def perguntar(pergunta, numero):
 def iniciarQuiz():
     pontos = 0
 
-
     print(Fore.YELLOW+"Iniciando quiz:")
 
     for index in range(0, len(perguntas)):
@@ -47,7 +46,7 @@ def iniciarQuiz():
 
         while not respondido:
             resposta = perguntar(pergunta, index+1)
-            
+
             if resposta == True:
                 pontos += 1
                 respondido = True
@@ -59,8 +58,8 @@ def iniciarQuiz():
                 respondido = True
                 print(Fore.RED + "Pena, errou :(")
                 print(Fore.RED + f"Pontuação atual: {pontos} \n")
-            
-            else:  
+
+            else:
                 print(Back.RED + Fore.BLACK + resposta + Back.RESET + "\n")
 
     print(Fore.CYAN+"\n Esse foi o quiz de hoje")
